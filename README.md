@@ -1,4 +1,4 @@
-![Logo](latentlogo.jpeg){: width="100px" }
+![Logo](latentlogo.jpeg)
 # How Typos Break Probes
 
 Anonymous companion code for the paper studying activation-level fragility of
